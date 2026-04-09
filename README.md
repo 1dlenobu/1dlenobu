@@ -31,20 +31,20 @@
 
 ## ⚡ Animated Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1dlenobu&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dlenobu&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1dlenobu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1dlenobu&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Graph (Snake Animation)
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/1dlenobu/1dlenobu/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/1dlenobu">
     <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
@@ -61,5 +61,13 @@
 
 ## 💡 Quote
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+<p align="center">
+💻 Code. 🎨 Design. ⚡ Optimize. <br>
+🚀 Always building something new
 </p>
